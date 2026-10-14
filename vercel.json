@@ -22,6 +22,10 @@
   "destination": "http://149.5.246.106:2131/lab/downloader/index.html"
     },
     {
+  "source": "/lab/downloader/",
+  "destination": "http://149.5.246.106:2131/lab/downloader/index.html"
+    }
+    {
       "source": "/",
       "destination": "http://149.5.246.106:2131/"
     },
