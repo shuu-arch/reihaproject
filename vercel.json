@@ -14,17 +14,17 @@
       "destination": "http://149.5.246.106:2131/lab/index.html"
     },
     {
-      "source": "/lab/:path*",
-      "destination": "http://149.5.246.106:2131/lab/:path*"
-      {
-    },
-  "source": "/lab/downloader",
-  "destination": "http://149.5.246.106:2131/lab/downloader/index.html"
+      "source": "/lab/downloader",
+      "destination": "http://149.5.246.106:2131/lab/downloader/index.html"
     },
     {
-  "source": "/lab/downloader/",
-  "destination": "http://149.5.246.106:2131/lab/downloader/index.html"
-    }
+      "source": "/lab/downloader/",
+      "destination": "http://149.5.246.106:2131/lab/downloader/index.html"
+    },
+    {
+      "source": "/lab/:path*",
+      "destination": "http://149.5.246.106:2131/lab/:path*"
+    },
     {
       "source": "/",
       "destination": "http://149.5.246.106:2131/"
