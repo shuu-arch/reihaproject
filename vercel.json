@@ -22,6 +22,14 @@
       "destination": "http://149.5.246.106:2131/lab/downloader/index.html"
     },
     {
+      "source": "/lab/chat",
+      "destination": "http://149.5.246.106:2131/lab/chat/index.html"
+    },
+    {
+      "source": "/lab/chat/",
+      "destination": "http://149.5.246.106:2131/lab/chat/index.html"
+    },
+    {
       "source": "/lab/:path*",
       "destination": "http://149.5.246.106:2131/lab/:path*"
     },
